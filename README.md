@@ -1,4 +1,4 @@
-# Eth+Avax:Intermediate: module-1
+# Eth+Avax: Intermediate module-1
 This Solidity program demonstrates the use of require(), assert(), and revert() functions for error handling in smart contracts. The purpose of this program is to serve as a practical example for those who are learning about error handling in Solidity.
 ## Description
 This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract includes functions that illustrate the usage of require(), assert(), and revert() statements to handle errors and validate conditions within smart contracts. This program serves as an educational tool for understanding basic error handling in Solidity programming.
